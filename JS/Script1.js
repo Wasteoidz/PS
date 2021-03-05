@@ -6,7 +6,7 @@ function lovecalc() {
    
 
     if (a.length < 1 || b.length < 1) {
-        alert("One or both of the names are missing! please fill them out correctly");
+        alert("One or both of the names are missing! Please fill them out correctly");
     } else if (n < 20) {
         alert(a + " + " + b + " is a " + n + "% match!");
         alert("There is ls little to no love, do not persue this unless you want your heart broke!");
