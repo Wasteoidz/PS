@@ -29,3 +29,8 @@ function lovecalc() {
     } 
     
 }
+
+
+function cunt() {
+    document.querySelector("body").innerHTML = "<h1> Danny is a cunt!</h1>";    
+}
