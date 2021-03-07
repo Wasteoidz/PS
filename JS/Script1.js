@@ -31,20 +31,20 @@ function lovecalc() {
 }
 
 
-function cunt() {
-    document.querySelector("body").innerHTML = `<h1> Danny is a cunt!</h1>
-                                                <h2> i would like to dedicate this section to my love/hate relationship with Danny</h2>
-                                                <p>Oh Daniel, the damage you do makes me happy, but when you talk it makes me sad <br>
-                                                   We play games to forget our lives, only pushing time forward until the sweet release that is death </p>
-    `;    
-}
+// function cunt() {
+//     document.querySelector("body").innerHTML = `<h1> Danny is a cunt!</h1>
+//                                                 <h2> i would like to dedicate this section to my love/hate relationship with Danny</h2>
+//                                                 <p>Oh Daniel, the damage you do makes me happy, but when you talk it makes me sad <br>
+//                                                    We play games to forget our lives, only pushing time forward until the sweet release that is death </p>
+//     `;    
+// }
 
-function chevelle() {
-    document.querySelector("body").innerHTML = `<div style="background-image: url('https://pbs.twimg.com/media/EYd16umWAAAlDl9?format=jpg&name=large');">
-                                                <h1>YOU CANT BAN ME HERE CHEV! </h1>
-                                                <h2>Dear diary today he deleted my chat again</h2>
-                                                <p style="color:white;">this no longer makes me sad, but i keeps the wound open.
-                                                   I'm counting the minutes til Vick streams again, because atleast there i am safe!<br>
-                                                   Chev is a meanie with a small wiener</p<> 
-                    `;
-}
+// function chevelle() {
+//     document.querySelector("body").innerHTML = `<div style="background-image: url('https://pbs.twimg.com/media/EYd16umWAAAlDl9?format=jpg&name=large');">
+//                                                 <h1>YOU CANT BAN ME HERE CHEV! </h1>
+//                                                 <h2>Dear diary today he deleted my chat again</h2>
+//                                                 <p style="color:white;">this no longer makes me sad, <br> but i keeps the wound open.<br>
+//                                                    I'm counting the minutes til Vick streams again, because atleast there i am safe!<br>
+//                                                    Chev is a meanie with a small wiener</p<> 
+//                     `;
+// }
