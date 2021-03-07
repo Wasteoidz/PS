@@ -32,5 +32,17 @@ function lovecalc() {
 
 
 function cunt() {
-    document.querySelector("body").innerHTML = "<h1> Danny is a cunt!</h1>";    
+    document.querySelector("body").innerHTML = `<h1> Danny is a cunt!</h1>
+                                                <h2> i would like to dedicate this sectiong to my love have relationship with Danny</h2>
+                                                <p>Oh Daniel, the damage you do makes me happy, but when you talk it makes me sad <br>
+                                                   We play games to forget our lives, only pushing time forward intil the sweet release that is death </p>
+    `;    
+}
+
+function chevelle() {
+    document.querySelector("body").innerHTML = `<h1>YOU CANT BAN ME HERE CHEV! </h1>
+                                                <h2>Dear diary today he deleted my chat again</h2>
+                                                <p>this no longer makes me sad, but i keeps the wound open.
+                                                   I'm counting the minutes til Vick streams again, because atleast there i am safe!</p> 
+                    `;
 }
