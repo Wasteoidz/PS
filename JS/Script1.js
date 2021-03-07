@@ -40,9 +40,11 @@ function cunt() {
 }
 
 function chevelle() {
-    document.querySelector("body").innerHTML = `<h1>YOU CANT BAN ME HERE CHEV! </h1>
+    document.querySelector("body").innerHTML = `<div style="background-image: url('https://pbs.twimg.com/media/EYd16umWAAAlDl9?format=jpg&name=large');">
+                                                <h1>YOU CANT BAN ME HERE CHEV! </h1>
                                                 <h2>Dear diary today he deleted my chat again</h2>
-                                                <p>this no longer makes me sad, but i keeps the wound open.
-                                                   I'm counting the minutes til Vick streams again, because atleast there i am safe!</p> 
+                                                <p style="color:white;">this no longer makes me sad, but i keeps the wound open.
+                                                   I'm counting the minutes til Vick streams again, because atleast there i am safe!<br>
+                                                   Chev is a meanie with a small wiener</p<> 
                     `;
 }
