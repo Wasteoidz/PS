@@ -33,9 +33,9 @@ function lovecalc() {
 
 function cunt() {
     document.querySelector("body").innerHTML = `<h1> Danny is a cunt!</h1>
-                                                <h2> i would like to dedicate this sectiong to my love have relationship with Danny</h2>
+                                                <h2> i would like to dedicate this section to my love/hate relationship with Danny</h2>
                                                 <p>Oh Daniel, the damage you do makes me happy, but when you talk it makes me sad <br>
-                                                   We play games to forget our lives, only pushing time forward intil the sweet release that is death </p>
+                                                   We play games to forget our lives, only pushing time forward until the sweet release that is death </p>
     `;    
 }
 
